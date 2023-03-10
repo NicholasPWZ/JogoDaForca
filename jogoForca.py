@@ -7,8 +7,7 @@ palavras =  ["computador", "software", "hardware", "internet", "smartphone", "ta
 
 
 #palavra a ser descoberta
-#secreta =  random.choice(palavras)
-secreta =  'mamonas assassinas'
+secreta =  random.choice(palavras)
 size = len(secreta)
 secreta = list(secreta)
 #criando palavra a ser preenchida pelo usuario    
